@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I code whenever I feel like it or when I have to do it for school.
+
 I currently know:
   - HTML/CSSS
   - Python/MicroPython
