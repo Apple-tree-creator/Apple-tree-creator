@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I code whenever I feel like it or when I have to do it for school.
+I currently know:
+  - HTML/CSSS
+  - Python/MicroPython
+  - Some Casio Basic
+  - GDScript
+
 <!--
 **Apple-tree-creator/Apple-tree-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
